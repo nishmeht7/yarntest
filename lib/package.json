@@ -1,5 +1,5 @@
 {
  "private": true,
  "name": "TestComponent",
- "main": "./TestComponent"
+ "main": "./TestComponent/TestComponent.js"
 }
