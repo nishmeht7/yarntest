@@ -1,6 +1,6 @@
 {
   "name": "yarntestnish",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "dependencies": {
     "autoprefixer": "7.1.6",
@@ -45,7 +45,7 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "lib": "babel src/node_modules --out-dir lib --copy-files",
+    "lib": "babel src/components --out-dir lib --copy-files",
     "test": "node scripts/test.js --env=jsdom"
   },
   "jest": {
