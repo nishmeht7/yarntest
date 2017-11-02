@@ -1,7 +1,6 @@
 {
   "name": "yarntest",
   "version": "0.1.0",
-  "private": true,
   "main": "lib/index.js",
   "dependencies": {
     "autoprefixer": "7.1.6",
